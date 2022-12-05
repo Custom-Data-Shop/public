@@ -1,110 +1,110 @@
 ﻿bene_gender_desc,bene_race_desc,age_grp_desc,dual_elig_ind,bene_cnt
-Female,Asian,18-<50,0,2266
-Female,Asian,18-<50,1,8222
-Female,Asian,50-<65,0,12112
-Female,Asian,50-<65,1,13920
-Female,Asian,65+,0,343719
-Female,Asian,65+,1,260379
-Female,Black,18-<50,0,12561
-Female,Black,18-<50,1,80748
-Female,Black,50-<65,0,96856
-Female,Black,50-<65,1,202391
-Female,Black,65+,0,1171857
-Female,Black,65+,1,514936
-Female,Black,<18,1,17
-Female,Hispanic,18-<50,0,7366
-Female,Hispanic,18-<50,1,26920
-Female,Hispanic,50-<65,0,23836
-Female,Hispanic,50-<65,1,45179
-Female,Hispanic,65+,0,172948
-Female,Hispanic,65+,1,244304
+Female,Asian,18-<50,0,2277
+Female,Asian,18-<50,1,8332
+Female,Asian,50-<65,0,12158
+Female,Asian,50-<65,1,14046
+Female,Asian,65+,0,345778
+Female,Asian,65+,1,262627
+Female,Black,18-<50,0,12539
+Female,Black,18-<50,1,81485
+Female,Black,50-<65,0,97129
+Female,Black,50-<65,1,203930
+Female,Black,65+,0,1179436
+Female,Black,65+,1,519810
+Female,Black,<18,1,18
+Female,Hispanic,18-<50,0,7364
+Female,Hispanic,18-<50,1,27166
+Female,Hispanic,50-<65,0,23834
+Female,Hispanic,50-<65,1,45573
+Female,Hispanic,65+,0,173354
+Female,Hispanic,65+,1,246280
 Female,Hispanic,<18,0,-999
 Female,Hispanic,<18,1,-999
-Female,North American Native,18-<50,0,687
-Female,North American Native,18-<50,1,4031
-Female,North American Native,50-<65,0,3429
-Female,North American Native,50-<65,1,7822
-Female,North American Native,65+,0,40200
-Female,North American Native,65+,1,22057
+Female,North American Native,18-<50,0,683
+Female,North American Native,18-<50,1,4100
+Female,North American Native,50-<65,0,3438
+Female,North American Native,50-<65,1,7893
+Female,North American Native,65+,0,40556
+Female,North American Native,65+,1,22312
 Female,North American Native,<18,1,-999
-Female,Other,18-<50,0,1157
-Female,Other,18-<50,1,4993
-Female,Other,50-<65,0,7414
-Female,Other,50-<65,1,6884
-Female,Other,65+,0,310173
-Female,Other,65+,1,67215
+Female,Other,18-<50,0,1173
+Female,Other,18-<50,1,5100
+Female,Other,50-<65,0,7613
+Female,Other,50-<65,1,7085
+Female,Other,65+,0,313715
+Female,Other,65+,1,68486
 Female,Other,<18,0,-999
 Female,Other,<18,1,18
-Female,Unknown,18-<50,0,2839
-Female,Unknown,18-<50,1,14005
-Female,Unknown,50-<65,0,5530
-Female,Unknown,50-<65,1,5611
-Female,Unknown,65+,0,264263
-Female,Unknown,65+,1,97401
+Female,Unknown,18-<50,0,2878
+Female,Unknown,18-<50,1,14308
+Female,Unknown,50-<65,0,5764
+Female,Unknown,50-<65,1,5720
+Female,Unknown,65+,0,268142
+Female,Unknown,65+,1,98826
 Female,Unknown,<18,0,-999
-Female,Unknown,<18,1,15
-Female,White,18-<50,0,63242
-Female,White,18-<50,1,226209
-Female,White,50-<65,0,525349
-Female,White,50-<65,1,522061
-Female,White,65+,0,14383663
-Female,White,65+,1,1742745
+Female,Unknown,<18,1,19
+Female,White,18-<50,0,63402
+Female,White,18-<50,1,228503
+Female,White,50-<65,0,528528
+Female,White,50-<65,1,526465
+Female,White,65+,0,14505200
+Female,White,65+,1,1765149
 Female,White,<18,0,16
-Female,White,<18,1,62
-Male,Asian,18-<50,0,2442
-Male,Asian,18-<50,1,9916
-Male,Asian,50-<65,0,9375
-Male,Asian,50-<65,1,14114
-Male,Asian,65+,0,240504
-Male,Asian,65+,1,166408
+Female,White,<18,1,65
+Male,Asian,18-<50,0,2452
+Male,Asian,18-<50,1,10048
+Male,Asian,50-<65,0,9409
+Male,Asian,50-<65,1,14254
+Male,Asian,65+,0,241752
+Male,Asian,65+,1,167913
 Male,Asian,<18,1,-999
-Male,Black,18-<50,0,14204
-Male,Black,18-<50,1,71361
-Male,Black,50-<65,0,82414
-Male,Black,50-<65,1,143814
-Male,Black,65+,0,744690
-Male,Black,65+,1,267526
+Male,Black,18-<50,0,14249
+Male,Black,18-<50,1,72113
+Male,Black,50-<65,0,82764
+Male,Black,50-<65,1,145028
+Male,Black,65+,0,750968
+Male,Black,65+,1,270562
 Male,Black,<18,0,-999
-Male,Black,<18,1,35
-Male,Hispanic,18-<50,0,9666
-Male,Hispanic,18-<50,1,29808
-Male,Hispanic,50-<65,0,26340
-Male,Hispanic,50-<65,1,43247
-Male,Hispanic,65+,0,146143
-Male,Hispanic,65+,1,142475
+Male,Black,<18,1,36
+Male,Hispanic,18-<50,0,9660
+Male,Hispanic,18-<50,1,30111
+Male,Hispanic,50-<65,0,26375
+Male,Hispanic,50-<65,1,43703
+Male,Hispanic,65+,0,146437
+Male,Hispanic,65+,1,143850
 Male,Hispanic,<18,1,-999
-Male,North American Native,18-<50,0,847
-Male,North American Native,18-<50,1,4389
-Male,North American Native,50-<65,0,3372
-Male,North American Native,50-<65,1,6541
-Male,North American Native,65+,0,28230
-Male,North American Native,65+,1,11916
+Male,North American Native,18-<50,0,853
+Male,North American Native,18-<50,1,4442
+Male,North American Native,50-<65,0,3391
+Male,North American Native,50-<65,1,6619
+Male,North American Native,65+,0,28475
+Male,North American Native,65+,1,12054
 Male,North American Native,<18,1,-999
-Male,Other,18-<50,0,1577
-Male,Other,18-<50,1,6720
-Male,Other,50-<65,0,10961
-Male,Other,50-<65,1,8233
-Male,Other,65+,0,324819
-Male,Other,65+,1,46170
+Male,Other,18-<50,0,1580
+Male,Other,18-<50,1,6838
+Male,Other,50-<65,0,11111
+Male,Other,50-<65,1,8418
+Male,Other,65+,0,328190
+Male,Other,65+,1,47168
 Male,Other,<18,0,-999
-Male,Other,<18,1,24
-Male,Unknown,18-<50,0,3894
-Male,Unknown,18-<50,1,17839
-Male,Unknown,50-<65,0,9794
-Male,Unknown,50-<65,1,6426
-Male,Unknown,65+,0,453581
-Male,Unknown,65+,1,67974
+Male,Other,<18,1,25
+Male,Unknown,18-<50,0,3912
+Male,Unknown,18-<50,1,18252
+Male,Unknown,50-<65,0,9943
+Male,Unknown,50-<65,1,6514
+Male,Unknown,65+,0,459651
+Male,Unknown,65+,1,68970
 Male,Unknown,<18,0,-999
-Male,Unknown,<18,1,18
-Male,White,18-<50,0,66641
-Male,White,18-<50,1,235782
-Male,White,50-<65,0,502128
-Male,White,50-<65,1,420363
-Male,White,65+,0,11049777
-Male,White,65+,1,895513
+Male,Unknown,<18,1,19
+Male,White,18-<50,0,66798
+Male,White,18-<50,1,238377
+Male,White,50-<65,0,504852
+Male,White,50-<65,1,424752
+Male,White,65+,0,11157680
+Male,White,65+,1,908624
 Male,White,<18,0,22
-Male,White,<18,1,100
-Unknown,Unknown,18-<50,0,452
-Unknown,Unknown,50-<65,0,394
-Unknown,Unknown,65+,0,4124
+Male,White,<18,1,105
+Unknown,Unknown,18-<50,0,460
+Unknown,Unknown,50-<65,0,418
+Unknown,Unknown,65+,0,4340
 Unknown,Unknown,<18,0,-999
