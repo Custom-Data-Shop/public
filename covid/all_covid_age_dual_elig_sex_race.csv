@@ -1,110 +1,110 @@
-﻿bene_gender_desc,bene_race_desc,age_grp_desc,dual_elig_ind,bene_cnt
-Female,Asian,18-<50,0,2277
-Female,Asian,18-<50,1,8332
-Female,Asian,50-<65,0,12158
-Female,Asian,50-<65,1,14046
-Female,Asian,65+,0,345778
-Female,Asian,65+,1,262627
-Female,Black,18-<50,0,12539
-Female,Black,18-<50,1,81485
-Female,Black,50-<65,0,97129
-Female,Black,50-<65,1,203930
-Female,Black,65+,0,1179436
-Female,Black,65+,1,519810
-Female,Black,<18,1,18
-Female,Hispanic,18-<50,0,7364
-Female,Hispanic,18-<50,1,27166
-Female,Hispanic,50-<65,0,23834
-Female,Hispanic,50-<65,1,45573
-Female,Hispanic,65+,0,173354
-Female,Hispanic,65+,1,246280
-Female,Hispanic,<18,0,-999
-Female,Hispanic,<18,1,-999
-Female,North American Native,18-<50,0,683
-Female,North American Native,18-<50,1,4100
-Female,North American Native,50-<65,0,3438
-Female,North American Native,50-<65,1,7893
-Female,North American Native,65+,0,40556
-Female,North American Native,65+,1,22312
-Female,North American Native,<18,1,-999
-Female,Other,18-<50,0,1173
-Female,Other,18-<50,1,5100
-Female,Other,50-<65,0,7613
-Female,Other,50-<65,1,7085
-Female,Other,65+,0,313715
-Female,Other,65+,1,68486
-Female,Other,<18,0,-999
-Female,Other,<18,1,18
-Female,Unknown,18-<50,0,2878
-Female,Unknown,18-<50,1,14308
-Female,Unknown,50-<65,0,5764
-Female,Unknown,50-<65,1,5720
-Female,Unknown,65+,0,268142
-Female,Unknown,65+,1,98826
-Female,Unknown,<18,0,-999
-Female,Unknown,<18,1,19
-Female,White,18-<50,0,63402
-Female,White,18-<50,1,228503
-Female,White,50-<65,0,528528
-Female,White,50-<65,1,526465
-Female,White,65+,0,14505200
-Female,White,65+,1,1765149
-Female,White,<18,0,16
-Female,White,<18,1,65
-Male,Asian,18-<50,0,2452
-Male,Asian,18-<50,1,10048
-Male,Asian,50-<65,0,9409
-Male,Asian,50-<65,1,14254
-Male,Asian,65+,0,241752
-Male,Asian,65+,1,167913
-Male,Asian,<18,1,-999
-Male,Black,18-<50,0,14249
-Male,Black,18-<50,1,72113
-Male,Black,50-<65,0,82764
-Male,Black,50-<65,1,145028
-Male,Black,65+,0,750968
-Male,Black,65+,1,270562
-Male,Black,<18,0,-999
-Male,Black,<18,1,36
-Male,Hispanic,18-<50,0,9660
-Male,Hispanic,18-<50,1,30111
-Male,Hispanic,50-<65,0,26375
-Male,Hispanic,50-<65,1,43703
-Male,Hispanic,65+,0,146437
-Male,Hispanic,65+,1,143850
-Male,Hispanic,<18,1,-999
-Male,North American Native,18-<50,0,853
-Male,North American Native,18-<50,1,4442
-Male,North American Native,50-<65,0,3391
-Male,North American Native,50-<65,1,6619
-Male,North American Native,65+,0,28475
-Male,North American Native,65+,1,12054
-Male,North American Native,<18,1,-999
-Male,Other,18-<50,0,1580
-Male,Other,18-<50,1,6838
-Male,Other,50-<65,0,11111
-Male,Other,50-<65,1,8418
-Male,Other,65+,0,328190
-Male,Other,65+,1,47168
-Male,Other,<18,0,-999
-Male,Other,<18,1,25
-Male,Unknown,18-<50,0,3912
-Male,Unknown,18-<50,1,18252
-Male,Unknown,50-<65,0,9943
-Male,Unknown,50-<65,1,6514
-Male,Unknown,65+,0,459651
-Male,Unknown,65+,1,68970
-Male,Unknown,<18,0,-999
-Male,Unknown,<18,1,19
-Male,White,18-<50,0,66798
-Male,White,18-<50,1,238377
-Male,White,50-<65,0,504852
-Male,White,50-<65,1,424752
-Male,White,65+,0,11157680
-Male,White,65+,1,908624
-Male,White,<18,0,22
-Male,White,<18,1,105
-Unknown,Unknown,18-<50,0,460
-Unknown,Unknown,50-<65,0,418
-Unknown,Unknown,65+,0,4340
-Unknown,Unknown,<18,0,-999
+﻿bene_gender_desc,bene_race_desc,age_grp_desc,dual_elig_ind,best_org_npi_cnt,best_ind_npi_cnt,bene_cnt,event_cnt
+Female,Asian,18-<50,0,2171,794,2269,4873
+Female,Asian,18-<50,1,6641,2208,8803,19338
+Female,Asian,50-<65,0,8495,2698,12576,27300
+Female,Asian,50-<65,1,8720,3257,14985,33232
+Female,Asian,65+,0,37544,19753,352189,815079
+Female,Asian,65+,1,30763,15333,274175,621693
+Female,Black,18-<50,0,8225,3047,12092,24082
+Female,Black,18-<50,1,25347,14003,84184,167585
+Female,Black,50-<65,0,25895,13504,96021,198188
+Female,Black,50-<65,1,34061,23692,210651,433400
+Female,Black,65+,0,48445,47948,1189216,2606108
+Female,Black,65+,1,41940,35682,545085,1147295
+Female,Black,<18,1,27,22,26,52
+Female,Hispanic,18-<50,0,4365,1451,7285,14348
+Female,Hispanic,18-<50,1,13709,5442,28333,56395
+Female,Hispanic,50-<65,0,11339,3957,23767,47594
+Female,Hispanic,50-<65,1,16884,7795,47614,95201
+Female,Hispanic,65+,0,29051,12886,174009,348255
+Female,Hispanic,65+,1,28810,17233,257059,509529
+Female,Hispanic,<18,0,2,2,-999,-999
+Female,Hispanic,<18,1,1,5,-999,-999
+Female,North American Native,18-<50,0,535,394,674,1440
+Female,North American Native,18-<50,1,2343,1794,4325,9342
+Female,North American Native,50-<65,0,1889,1386,3474,7933
+Female,North American Native,50-<65,1,3526,2681,8308,18968
+Female,North American Native,65+,0,10793,6095,41594,103367
+Female,North American Native,65+,1,6202,4090,23849,57350
+Female,North American Native,<18,1,2,2,-999,-999
+Female,Other,18-<50,0,1145,410,1164,2384
+Female,Other,18-<50,1,4813,1636,5333,11063
+Female,Other,50-<65,0,5478,1767,7403,15899
+Female,Other,50-<65,1,5926,2109,7216,15449
+Female,Other,65+,0,40288,22290,315612,784944
+Female,Other,65+,1,22708,9522,71476,154918
+Female,Other,<18,0,3,2,-999,-999
+Female,Other,<18,1,22,16,20,40
+Female,Unknown,18-<50,0,2823,892,2830,5603
+Female,Unknown,18-<50,1,11747,4084,15350,30432
+Female,Unknown,50-<65,0,5295,1465,5670,12173
+Female,Unknown,50-<65,1,5162,1969,6075,12634
+Female,Unknown,65+,0,43509,24337,272723,710791
+Female,Unknown,65+,1,25477,11058,104027,216689
+Female,Unknown,<18,0,2,1,-999,-999
+Female,Unknown,<18,1,23,18,23,37
+Female,White,18-<50,0,29182,9744,62272,128269
+Female,White,18-<50,1,45013,27187,236548,506170
+Female,White,50-<65,0,51502,39817,529371,1141000
+Female,White,50-<65,1,53226,44412,545944,1193431
+Female,White,65+,0,65110,136321,14688931,36245486
+Female,White,65+,1,60367,72591,1885294,4272285
+Female,White,<18,0,20,21,18,29
+Female,White,<18,1,76,65,78,158
+Male,Asian,18-<50,0,2324,857,2456,5168
+Male,Asian,18-<50,1,7509,2436,10603,23300
+Male,Asian,50-<65,0,6758,2247,9546,20206
+Male,Asian,50-<65,1,8657,3409,15195,33752
+Male,Asian,65+,0,33059,14730,245153,552050
+Male,Asian,65+,1,25893,11493,176008,391655
+Male,Asian,<18,1,4,3,-999,-999
+Male,Black,18-<50,0,9339,3734,13914,27415
+Male,Black,18-<50,1,24756,12868,74998,150968
+Male,Black,50-<65,0,25374,13054,82263,167465
+Male,Black,50-<65,1,31347,20064,150821,313330
+Male,Black,65+,0,47717,39883,760753,1633696
+Male,Black,65+,1,35860,25072,286241,592318
+Male,Black,<18,0,4,3,-999,-999
+Male,Black,<18,1,40,35,43,86
+Male,Hispanic,18-<50,0,5082,1783,9585,18675
+Male,Hispanic,18-<50,1,14491,5949,31581,63200
+Male,Hispanic,50-<65,0,11576,4615,26336,52520
+Male,Hispanic,50-<65,1,16319,8253,46124,94349
+Male,Hispanic,65+,0,26837,11409,146870,288812
+Male,Hispanic,65+,1,23839,13028,151474,298319
+Male,Hispanic,<18,1,9,3,-999,-999
+Male,North American Native,18-<50,0,574,488,853,1803
+Male,North American Native,18-<50,1,2557,1774,4666,10233
+Male,North American Native,50-<65,0,1635,1425,3424,7969
+Male,North American Native,50-<65,1,3110,2336,6985,16155
+Male,North American Native,65+,0,7917,4648,29276,73169
+Male,North American Native,65+,1,3903,2773,12984,30800
+Male,North American Native,<18,1,3,4,-999,-999
+Male,Other,18-<50,0,1506,550,1589,3251
+Male,Other,18-<50,1,6104,2032,7158,14938
+Male,Other,50-<65,0,7794,2701,11103,23468
+Male,Other,50-<65,1,6912,2677,8762,19040
+Male,Other,65+,0,42112,23055,331823,806488
+Male,Other,65+,1,18515,7372,49669,107356
+Male,Other,<18,0,6,7,-999,-999
+Male,Other,<18,1,32,29,31,57
+Male,Unknown,18-<50,0,3725,1181,3871,7515
+Male,Unknown,18-<50,1,13902,4602,19534,38402
+Male,Unknown,50-<65,0,8725,2584,9993,21440
+Male,Unknown,50-<65,1,5971,2307,6957,14650
+Male,Unknown,65+,0,47884,32915,468838,1197999
+Male,Unknown,65+,1,23570,9028,73428,154121
+Male,Unknown,<18,0,6,4,-999,-999
+Male,Unknown,<18,1,31,25,31,56
+Male,White,18-<50,0,30484,10022,65889,134687
+Male,White,18-<50,1,45922,27023,247464,534585
+Male,White,50-<65,0,52598,39285,505397,1074244
+Male,White,50-<65,1,52222,40739,443746,985741
+Male,White,65+,0,64859,126359,11341288,27416975
+Male,White,65+,1,57427,55284,976398,2154066
+Male,White,<18,0,20,21,20,38
+Male,White,<18,1,122,114,128,276
+Unknown,Unknown,18-<50,0,318,140,345,587
+Unknown,Unknown,50-<65,0,373,167,385,617
+Unknown,Unknown,65+,0,3755,968,4289,7419
+Unknown,Unknown,<18,0,1,1,-999,-999
